@@ -17,7 +17,7 @@ Español ingles y un poco de italiano
 
 
 
-[aulavirtual](https://www.educa2.madrid.org/educamadrid/aula-virtual)
+[aulavirtual](https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/view.php?id=12832)
 
 
 |  LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
