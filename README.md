@@ -22,15 +22,10 @@ https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/vi
 
 
 |  LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
-
+| ---------- | ---------- | ---------- | ---------- | ---------- |
 | SOR    | SOR    | SOR       | SOR    | Cabecera 1 |
-
 | SOR    | SOR    | SOR       | SOR    | Cabecera 1 |
-
 |app web | ingles | Cabecera 1 | Cabecera 2 | Cabecera 1 |
-
 | python | sostenibilidad  | Cabecera 1 | SOR | Cabecera 1 |
-
 | python | Elem 2, 2  | Cabecera 1 | Cabecera 2 | Cabecera 1 |
-
 |seguridad| Elem 2, 2  | Cabecera 1 | Cabecera 2 | Cabecera 1 | 
