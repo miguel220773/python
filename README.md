@@ -1,4 +1,4 @@
-#CFGM
+# CFGM
 ## 2º SMR
 Miguel del Valle Sinis 
 
@@ -17,8 +17,7 @@ Español ingles y un poco de italiano
 
 
 
-https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/view.php?id=12832
-
+[aulavirtual](https://www.educa2.madrid.org/educamadrid/aula-virtual)
 
 
 |  LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
